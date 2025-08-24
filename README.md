@@ -17,7 +17,8 @@ It allows users to perform basic arithmetic operations and shows real-time resul
 ## 📸 Screenshots
 <img width="173" height="298" alt="Screenshot 2025-08-24 141718" src="https://github.com/user-attachments/assets/afef23cf-d6e7-4df8-84bd-73f9808f0d46" />
 
-![Uploading Screenshot 2025-08-24 141741.png…]()
+<img width="148" height="261" alt="Screenshot 2025-08-24 141741" src="https://github.com/user-attachments/assets/e3ded16a-f889-4de2-863d-86c596ea1403" />
+
 
 
 ## 🛠️ Tech Stack
